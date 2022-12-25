@@ -1,6 +1,6 @@
 ---
 layout: page
-title: posts in c category
+title: c
 permalink: /newpage/
 category: c
 ---
@@ -11,9 +11,12 @@ category: c
     </a>
 {% endfor %} -->
 
-
 <ul>
   {% for category in site.categories %}
-    <li>{{ category | first }}</li>
+    <li>
+      <a href="{{ '/category/' | append: category | first | slugify | absolute_url }}">
+        {{ category | first }}
+      </a>
+    </li>
   {% endfor %}
 </ul>
