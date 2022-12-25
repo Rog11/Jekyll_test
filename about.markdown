@@ -20,10 +20,6 @@ Some of the topics that I cover in my digital garden include:
 * I hope you enjoy exploring my digital garden! If you have any questions or comments, please don't hesitate to contact me.
 
 
-<!-- You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima) -->
-
 Contact me at twitter:
 [twitter][jekyll-organization] /
 [twitter](https://twitter.com/Gabriel_4311)
