@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: LJT's Digital Garden
+email: daniel.gotze17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my digital garden; A digital garden is a collection of notes, ideas, and resources that are organized and structured in a way that allows for exploration and growth over time. It is often presented as a website or web application that is designed for long-form writing, linking, and organizing
 baseurl: "Jekyll_test" # the subpath of your site, e.g. /blog
 url: "https://rog11.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Rog4311
+github_username:  Rog11
 
 # Build settings
 theme: minima
