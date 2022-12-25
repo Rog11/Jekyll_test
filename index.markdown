@@ -4,3 +4,8 @@
 
 layout: home
 ---
+<ul>
+  {% for category in site.categories %}
+    <li>{{ category | first }}</li>
+  {% endfor %}
+</ul>
