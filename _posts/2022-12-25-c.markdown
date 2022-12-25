@@ -2,7 +2,7 @@
 layout: post
 title:  "Basics of C"
 date:   2022-12-25 10:31 +0800
-categories: C
+categories: programming
 ---
 
 [[Linked Lists]] [[Assembly Code]] [[LeetCode]] [[C code & templates]]

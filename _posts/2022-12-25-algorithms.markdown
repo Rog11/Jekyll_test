@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Basics of C"
+title:  "LIFO stack"
 date:   2022-12-25 10:41 +0800
-categories: algorithms
+categories: programming
 ---
 
-[[Linked Lists]] [[Assembly Code]] [[LeetCode]] [[C code & templates]]
 # Memory leak 
 
 * heap does not have a fixed size 

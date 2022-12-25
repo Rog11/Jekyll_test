@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<ul>
+<!-- <ul>
   {% for category in site.categories %}
     <li>{{ category | first }}</li>
   {% endfor %}
@@ -16,4 +16,4 @@ layout: home
       <a href="/categories/{{ category | first }}">{{ category | first }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->

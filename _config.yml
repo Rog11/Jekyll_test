@@ -22,7 +22,7 @@ title: LJT's Digital Garden
 email: daniel.gotze17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my digital garden; A digital garden is a collection of notes, ideas, and resources that are organized and structured in a way that allows for exploration and growth over time. It is often presented as a website or web application that is designed for long-form writing, linking, and organizing
-baseurl: "Jekyll_test" # the subpath of your site, e.g. /blog
+baseurl: "/Jekyll_test" # the subpath of your site, e.g. /blog
 url: "https://rog11.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Rog4311
 github_username:  Rog11
@@ -34,6 +34,14 @@ plugins:
 
 gems:
   - jekyll-paginate-v2
+
+# header_pages: 
+#   - title: Programming Posts
+#     url: /c/
+#   - title: Non-Programming Posts 
+#     url: /myPage/
+#   - title: About
+#     url: /about/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
