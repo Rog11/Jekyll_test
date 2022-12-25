@@ -1,6 +1,8 @@
 ---
 layout: page
 title: listOfPages
+permalink: /listOfPages/
+category: c
 ---
 
 {% paginate site.categories['c'] by 10 %}
