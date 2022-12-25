@@ -10,7 +10,10 @@ layout: home
   {% endfor %}
 </ul>
 
-{% for post in site.categories[page.category] %}
-  <h2>{{ post.title }}</h2>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
+<ul>
+  {% for category in site.categories %}
+    <li>
+      <a href="/categories/{{ category | first }}">{{ category | first }}</a>
+    </li>
+  {% endfor %}
+</ul>
