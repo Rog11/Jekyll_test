@@ -20,9 +20,7 @@ Some of the topics that I cover in my digital garden include:
 * I hope you enjoy exploring my digital garden! If you have any questions or comments, please don't hesitate to contact me.
 
 
-Contact me at twitter:
-[twitter][jekyll-organization] /
-[twitter](https://twitter.com/Gabriel_4311)
+Contact me at twitter:/ [twitter](https://twitter.com/Gabriel_4311)
 
 
 <!-- [jekyll-organization]: https://github.com/jekyll -->
