@@ -9,3 +9,8 @@ layout: home
     <li>{{ category | first }}</li>
   {% endfor %}
 </ul>
+
+{% for post in site.categories[page.category] %}
+  <h2>{{ post.title }}</h2>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
