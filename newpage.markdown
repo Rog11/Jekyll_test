@@ -5,8 +5,15 @@ permalink: /newpage/
 category: c
 ---
 
-{% for post in site.categories[page.category] %}
+<!-- {% for post in site.categories[page.category] %}
     <a href="{{ post.url | absolute_url }}">
       {{ post.title }}
     </a>
-{% endfor %}
+{% endfor %} -->
+
+
+<ul>
+  {% for category in site.categories %}
+    <li>{{ category | first }}</li>
+  {% endfor %}
+</ul>
